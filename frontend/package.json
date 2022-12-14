@@ -12,7 +12,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.4",
     "@mdi/font": "5.9.55",
-    "@vue/composition-api": "^1.0.6",
+    "@vue/composition-api": "^1.7.1",
     "@vueuse/core": "^5.2.0",
     "axios": "0.21.1",
     "buefy": "0.9.8",
